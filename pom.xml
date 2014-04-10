@@ -221,7 +221,7 @@
 		<dependency>
 			<groupId>com.eyeq</groupId>
 			<artifactId>pivot4j</artifactId>
-			<version>0.7-SNAPSHOT</version>
+			<version>0.7</version>
 		</dependency>
 		<dependency>
 			<groupId>org.olap4j</groupId>
